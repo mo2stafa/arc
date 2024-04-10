@@ -1,1 +1,6 @@
 # arc
+
+    lexer
+    parser
+    interpreter
+    
