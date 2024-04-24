@@ -1,6 +1,6 @@
 # arc
 
-    lexer
+    -lexer
     parser
     interpreter
     
